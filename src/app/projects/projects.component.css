@@ -1,0 +1,111 @@
+.projects{
+    background-color: black;
+    height: 140vh;
+    width:100vw;
+    color:white;
+    
+
+}
+.grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    row-gap: 20px;
+}
+ 
+ 
+.gri:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+     
+     
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+}
+ 
+a{
+    text-decoration: none;
+}
+.gr:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+  
+     
+     
+}
+.g:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+     
+    
+}
+h2{
+    color:blue
+}
+.i:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+    
+}
+.il:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+    
+}
+.ile:hover{
+    border:2px solid blueviolet;
+    height:400px;
+    width:300px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+     
+    
+}
+ 
